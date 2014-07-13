@@ -1,0 +1,30 @@
+{
+  "name": "soundbank-slide",
+  "version": "0.0.0",
+  "description": "Modulator to implement time sliding between grouped values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "beefy test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/soundbank-slide.git"
+  },
+  "keywords": [
+    "portamento",
+    "slide",
+    "waapi",
+    "AudioParam",
+    "modulator"
+  ],
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/soundbank-slide/issues"
+  },
+  "homepage": "https://github.com/mmckegg/soundbank-slide",
+  "dependencies": {
+    "audio-param-transform": "^0.2.0",
+    "custom-audio-node": "^0.2.0"
+  }
+}
