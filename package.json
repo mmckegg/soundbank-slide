@@ -1,6 +1,6 @@
 {
   "name": "soundbank-slide",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Modulator to implement time sliding between grouped values.",
   "main": "index.js",
   "scripts": {
